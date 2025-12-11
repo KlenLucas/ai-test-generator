@@ -1,0 +1,10 @@
+As a user
+I want to login to the application
+So that I can access my account
+
+Acceptance Criteria:
+- User navigates to the login page at https://example.com/login
+- User enters valid username and password
+- User clicks the login button
+- User is redirected to the dashboard
+- User sees their profile name displayed

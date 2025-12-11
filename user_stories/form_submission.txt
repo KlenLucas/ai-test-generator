@@ -1,0 +1,11 @@
+As a user
+I want to submit a contact form
+So that I can send a message
+
+Acceptance Criteria:
+- User navigates to https://example.com/contact
+- User fills in name field
+- User fills in email field
+- User fills in message field
+- User clicks submit button
+- User sees confirmation message

@@ -1,0 +1,10 @@
+As a user
+I want to search for products
+So that I can find items I need
+
+Acceptance Criteria:
+- User navigates to https://example.com
+- User sees a search box
+- User enters "laptop" in the search box
+- User presses Enter or clicks search button
+- User sees a list of laptop products

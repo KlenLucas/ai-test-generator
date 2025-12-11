@@ -1,0 +1,11 @@
+As a user
+I want to log in to the application
+So that I can access my account
+
+Acceptance Criteria:
+- User navigates to https://the-internet.herokuapp.com/login
+- User enters "tomsmith" in the username field
+- User enters "SuperSecretPassword!" in the password field
+- User clicks the "Login" button
+- User sees "You logged into a secure area!" message
+- User verifies the URL contains "/secure"

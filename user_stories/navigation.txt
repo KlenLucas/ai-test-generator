@@ -1,0 +1,10 @@
+As a user
+I want to navigate between pages
+So that I can explore the website
+
+Acceptance Criteria:
+- User visits https://example.com
+- User clicks on "About" link
+- User is on the About page
+- User clicks on "Contact" link
+- User is on the Contact page
