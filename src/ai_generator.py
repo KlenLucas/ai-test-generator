@@ -244,5 +244,5 @@ class AITestGenerator:
             "user_story": user_story,
             "gherkin": gherkin,
             "code": code,
-            "validation": validation_result,  # ← NUEVO
+            "validation": validation_result,
         }
