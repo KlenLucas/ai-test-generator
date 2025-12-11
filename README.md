@@ -431,8 +431,8 @@ MIT License - Uso educativo y personal
 ## 👤 Autor
 
 **[Bryan Rodriguez]**
-- GitHub: [@TU-USUARIO](https://github.com/bryan0422)
-- LinkedIn: [Tu Perfil](www.linkedin.com/in/bryan-rodriguez-32a9a8211)
+- GitHub: [https://github.com/bryan0422]
+- LinkedIn: [www.linkedin.com/in/bryan-rodriguez-32a9a8211]
 
 ## 🙏 Agradecimientos
 
