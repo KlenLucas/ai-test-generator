@@ -260,20 +260,6 @@ python -m pytest tests/ -v
 - Validación no cubre todos los casos edge
 - Costos de API se acumulan con uso frecuente
 
-## 🚀 Próximos Pasos
-
-- [ ] CLI para generar tests desde terminal
-- [ ] Auto-corrección de código con problemas
-- [ ] Integración con CI/CD
-- [ ] Soporte para más frameworks (Selenium, Cypress)
-- [ ] Dashboard para visualizar tests generados
-
-## 📝 Notas
-
-**Proyecto:** AI Test Generator v1.0  
-**Semanas:** 3-4 de 8  
-**Stack:** Python, Playwright, Claude API  
-**Estado:** Funcional con validación automática  
 
 ## 🤝 Contribuciones
 
