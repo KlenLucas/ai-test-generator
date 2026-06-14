@@ -1,5 +1,7 @@
 # 🛠️ ai-test-generator - Effortlessly Generate Tests with AI
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/klenlucas-ai-test-generator)
+
 ## 🚀 Getting Started
 
 Welcome to the **ai-test-generator**! This tool helps you automatically create tests for Playwright using Claude AI. It makes your testing process easier and faster, allowing you to focus on what matters most—building great software!
